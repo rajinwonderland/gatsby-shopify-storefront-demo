@@ -4,9 +4,9 @@
   "description": "A simple starter to get up and developing quickly with Gatsby Storefront",
   "version": "2.1.0",
   "author": {
-    "name": "Pavel Ivanov",
-    "email": "paveliv@gmail.com",
-    "url": "https://gatsbystorefront.com/"
+    "name": "Raj Singh",
+    "email": "raj@novvum.io",
+    "url": "https://goofyghost.netlify.app/"
   },
   "dependencies": {
     "@gatsbystorefront/gatsby-theme-storefront-shopify": "^2.1.4",
@@ -24,7 +24,7 @@
   "license": "MPL-2.0",
   "scripts": {
     "build": "gatsby build",
-    "develop": "gatsby develop",
+    "dev": "gatsby develop",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
@@ -32,6 +32,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbystorefront/gatsby-starter-storefront-shopify"
+    "url": "https://github.com/rajinwonderland/gatsby-shopify-demo"
   }
 }
